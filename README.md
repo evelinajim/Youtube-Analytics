@@ -3,3 +3,7 @@ Using R and shiny, this app helps youtubers/youtube users analyze over 40,900 ch
 
 # Details
 A detailed presentation for the video can be found here: https://docs.google.com/presentation/d/1tAbUuYAUQL8nHwhPaONSZ0mgtLb838ozu8Dc8cR-EE4/edit?usp=sharing
+
+# Dataset
+The dataset comes from: https://www.kaggle.com/datasnaek/youtube-new/data
+In the presentation we are only using the US but it can be modified to read other csv files easily. Select the one you want and it will change it accordingly.
